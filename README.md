@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Deepak Kumar
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking forward to start my journey as Data Scientist from Data Analyst
+- 👋 Hi, Myself Deepak Kumar
+- 👀 I am interested in Data Science
+- 🌱 I am currently enhancing my Data Analytical skills from Acciojob.
+- 💞️ My goal is to start my journey as a Data Analyst and eventually become a Data Scientist.
+- 👀 "Excited to bring my analytical skills and enthusiasm to the world of Data."
 - 📫 Please reach out to me at 8586883276 or deepakrao233154@gmail.com
 
 <!---
